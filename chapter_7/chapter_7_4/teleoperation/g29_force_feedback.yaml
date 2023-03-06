@@ -1,0 +1,8 @@
+device_name: "/dev/input/event13"
+Kp: 1.0
+Ki: 0.0
+Kd: 0.5
+offset: 0.01
+max_force: 1.0
+min_force: 0.18
+pub_rate: 0.1

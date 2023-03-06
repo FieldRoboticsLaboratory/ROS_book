@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<launch>
+	<node pkg="turtlesim" type="turtlesim_node" name="sim"/>
+	<node pkg="serialport" type="serial_hex" name="serial_hex" />
+</launch>
