@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rbg</folder>
+	<filename>1.jpg</filename>
+	<path>/home/nuaa-frl/catkin_ws/src/paddle/detect/data/stop/rbg/1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>29</ymin>
+			<xmax>91</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+</annotation>

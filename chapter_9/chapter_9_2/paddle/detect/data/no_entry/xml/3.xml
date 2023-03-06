@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rgb</folder>
+	<filename>3.jpg</filename>
+	<path>/home/mxy/paddlepaddle/detect/data/No_Entry/rgb/3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>82</width>
+		<height>83</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_entry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>4</ymin>
+			<xmax>75</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>
